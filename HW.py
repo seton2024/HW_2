@@ -1,3 +1,4 @@
+
 import numpy as np
 
 R=np.matrix("200,245,200,200,245,200;200,200,200,200,200,200;200,245,200,200,245,200;200,200,245,245,200,200")
@@ -40,3 +41,6 @@ print(G.T)
 print()
 print(B.T)
 print()
+print(HW)
+
+print("pineapple")
